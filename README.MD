@@ -14,8 +14,8 @@ This page contains good reference links on various technologies that are being u
 - https://www.youtube.com/watch?v=NKEFWyqJ5XA&t=16s
 
 # Database
-https://www.youtube.com/watch?v=wR0jg0eQsZA
-https://www.youtube.com/watch?v=7S_tz1z_5bA
+- https://www.youtube.com/watch?v=wR0jg0eQsZA
+- https://www.youtube.com/watch?v=7S_tz1z_5bA
 
 # Docker
 - https://www.youtube.com/watch?v=3c-iBn73dDE&t=807s
@@ -52,14 +52,19 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 
 # Advanced Java
 - [Simplilearn Advanced Java Course](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
-- [JUnit, Mockito tutorial]https://www.youtube.com/watch?v=d2KwvXQgQx4
+- [JUnit, Mockito tutorial](https://www.youtube.com/watch?v=d2KwvXQgQx4)
 - [Java JDBC tutorial](https://www.youtube.com/watch?v=3OrEsC-QjUA)
 - [Java memory management and garbage collection](https://www.youtube.com/watch?v=bspS-uTK0IM)
-- 
+
 #### Paid Java Courses:
 - [Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
+# Java Testing
+- [Introduction to JUnit](https://www.youtube.com/watch?v=vZm0lHciFsQ)
+- [Mockito & Junit](https://www.youtube.com/watch?v=d2KwvXQgQx4)
+
 # Design Patterns
+- https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
 - https://www.youtube.com/watch?v=tDxnyop48mY&list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol&index=1s
 - https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
 
@@ -87,6 +92,7 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 - [IntelliJ SonarQube, Jococo setup for springboot app](https://medium.com/trendyol-tech/spring-boot-2-2-6-code-quality-with-sonarqube-8-2-community-70a76634bf75)
 
 # API Design
+- [Open API Specification](https://swagger.io/specification/)
 - [Swagger API design best practices](https://swagger.io/resources/articles/best-practices-in-api-design/)
 - [Stack overflow API design best practices](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 - [API design best practices by VinaySahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
@@ -98,6 +104,7 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 # Microservices advanced:
 - https://www.udemy.com/course/spring-boot-microservices-cqrs-saga-axon-framework/learn/lecture/23784946?start=15#content
 - https://youtu.be/rv4LlmLmVWk
+- https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a
 
 # Kafka:
 - https://www.udemy.com/course/apache-kafka/learn/lecture/17914080?start=0#overview
